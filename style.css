@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+}
+.container-div{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    font-size:20px;
+    color:rgb(255, 0, 0);
+    background-color: rgba(53, 227, 18, 0.92);
+    border-radius: 10px;
+}
+.block{
+    height: 200px;
+    width: 200px;
+    margin: 1.5rem;
+    border: solid black 10px;
+    border-radius: 30px;
+}
+
+.red{
+    background-color: #eb1414;
+}
+.yellow{
+    background-color: #e3f115;
+}
+.blue{
+    background-color: #13c3df;
+}
+.purple{
+    background-color: #f31ebd;
+}
+.flash{
+    background-color: white;
+}
